@@ -1,5 +1,7 @@
 # Khlebnikov bot
 The code of a telegram bot @hlebnikov_bot.
+t.me/@hlebnikov_bot
+teleg.run/hlebnikov_bot
 Made as a course project for HSE University.
 This bot generates a poem based on the poetry of famous Russian futurist Velemir Khlebnikov and lets you guess which of the poems is original and which is generated.
 Technologies used - word2vec, pymorphy2, sqlite3, pyTelegramAPI, matplotlib
